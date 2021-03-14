@@ -5,8 +5,8 @@ Project 1 Business Intelligence. Text analysis and Data Mining
 Classification of Tweets with depression.
 
 ## Contents:
-- [Traning CSV:](https://www.kaggle.com/fiorela/data-depresion) Dataset with tweets, has a categorical variable to check if tweets may have depression indications or not
-- [Validation CSV:](https://www.kaggle.com/kazanova/sentiment140) Dataset with various tweets.
+- [CSV:](https://www.kaggle.com/fiorela/data-depresion) Dataset with tweets, has a categorical variable to check if tweets may have depression indications or not
+
 
 
 ## Needed dependencies:
