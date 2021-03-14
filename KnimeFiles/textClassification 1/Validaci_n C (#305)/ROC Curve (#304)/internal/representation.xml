@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="viewRepresentation">
+<entry key="tableID" type="xstring" value="ac09e513-0362-444f-b5aa-3a9b581b68af"/>
+<config key="curveSettings">
+<config key="bless">
+<config key="x_values">
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xdouble" value="0.0"/>
+<entry key="1" type="xdouble" value="0.2018253474382908"/>
+<entry key="2" type="xdouble" value="1.0"/>
+</config>
+<config key="y_values">
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xdouble" value="0.0"/>
+<entry key="1" type="xdouble" value="0.004452926208651399"/>
+<entry key="2" type="xdouble" value="1.0"/>
+</config>
+<entry key="name" type="xstring" value="bless"/>
+<entry key="area" type="xdouble" value="0.4013137893851803"/>
+<entry key="max_points" type="xint" value="2000"/>
+</config>
+<config key="shit">
+<config key="x_values">
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xdouble" value="0.0"/>
+<entry key="1" type="xdouble" value="0.005600497822028625"/>
+<entry key="2" type="xdouble" value="1.0"/>
+</config>
+<config key="y_values">
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xdouble" value="0.0"/>
+<entry key="1" type="xdouble" value="0.041348600508905854"/>
+<entry key="2" type="xdouble" value="1.0"/>
+</config>
+<entry key="name" type="xstring" value="shit"/>
+<entry key="area" type="xdouble" value="0.5178740513434387"/>
+<entry key="max_points" type="xint" value="2000"/>
+</config>
+<config key="fuck">
+<config key="x_values">
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xdouble" value="0.0"/>
+<entry key="1" type="xdouble" value="0.01431238332296204"/>
+<entry key="2" type="xdouble" value="1.0"/>
+</config>
+<config key="y_values">
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xdouble" value="0.0"/>
+<entry key="1" type="xdouble" value="0.11959287531806616"/>
+<entry key="2" type="xdouble" value="1.0"/>
+</config>
+<entry key="name" type="xstring" value="fuck"/>
+<entry key="area" type="xdouble" value="0.5526402459975521"/>
+<entry key="max_points" type="xint" value="2000"/>
+</config>
+<config key="lol">
+<config key="x_values">
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xdouble" value="0.0"/>
+<entry key="1" type="xdouble" value="0.017838622692387472"/>
+<entry key="2" type="xdouble" value="1.0"/>
+</config>
+<config key="y_values">
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xdouble" value="0.0"/>
+<entry key="1" type="xdouble" value="0.0231128074639525"/>
+<entry key="2" type="xdouble" value="1.0"/>
+</config>
+<entry key="name" type="xstring" value="lol"/>
+<entry key="area" type="xdouble" value="0.5026370923857825"/>
+<entry key="max_points" type="xint" value="2000"/>
+</config>
+<config key="proud">
+<config key="x_values">
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xdouble" value="0.0"/>
+<entry key="1" type="xdouble" value="0.0362995229205559"/>
+<entry key="2" type="xdouble" value="1.0"/>
+</config>
+<config key="y_values">
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xdouble" value="0.0"/>
+<entry key="1" type="xdouble" value="0.001272264631043257"/>
+<entry key="2" type="xdouble" value="1.0"/>
+</config>
+<entry key="name" type="xstring" value="proud"/>
+<entry key="area" type="xdouble" value="0.48248637085524365"/>
+<entry key="max_points" type="xint" value="2000"/>
+</config>
+<config key="stress">
+<config key="x_values">
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xdouble" value="0.0"/>
+<entry key="1" type="xdouble" value="0.0045633685957270275"/>
+<entry key="2" type="xdouble" value="1.0"/>
+</config>
+<config key="y_values">
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xdouble" value="0.0"/>
+<entry key="1" type="xdouble" value="0.027353689567430027"/>
+<entry key="2" type="xdouble" value="1.0"/>
+</config>
+<entry key="name" type="xstring" value="stress"/>
+<entry key="area" type="xdouble" value="0.5113951604858515"/>
+<entry key="max_points" type="xint" value="2000"/>
+</config>
+</config>
+<entry key="enableStaggeredRendering" type="xboolean" value="true"/>
+<entry key="resizeToWindow" type="xboolean" value="true"/>
+<entry key="displayFullscreenButton" type="xboolean" value="true"/>
+<entry key="dataAreaColor" type="xstring" value="rgba(230,230,230,1.0)"/>
+<entry key="backgroundColor" type="xstring" value="rgba(255,255,255,1.0)"/>
+<entry key="gridColor" type="xstring" value="rgba(255,255,255,1.0)"/>
+<entry key="lineWidth" type="xint" value="2"/>
+<entry key="imageWidth" type="xint" value="800"/>
+<entry key="imageHeight" type="xint" value="600"/>
+<entry key="showGrid" type="xboolean" value="true"/>
+<entry key="showArea" type="xboolean" value="true"/>
+<config key="colors"/>
+<entry key="showLegend" type="xboolean" value="true"/>
+<entry key="enableControls" type="xboolean" value="true"/>
+<entry key="enableEditTitle" type="xboolean" value="true"/>
+<entry key="enableEditSubtitle" type="xboolean" value="true"/>
+<entry key="enableEditXAxisLabel" type="xboolean" value="true"/>
+<entry key="enableEditYAxisLabel" type="xboolean" value="true"/>
+<entry key="showWarningInView" type="xboolean" value="true"/>
+<entry key="hasWarnings" type="xboolean" value="false"/>
+<entry key="ignoreMissingValues" type="xboolean" value="false"/>
+</config>
